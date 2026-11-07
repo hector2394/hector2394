@@ -30,13 +30,16 @@ I build AI applications and the backend systems around them.
 
 <sub>StudyAgent includes TypeScript/Python evaluation harnesses. A public evaluation corpus and measured quality baseline are still planned. <a href="https://github.com/hector2394/StudyAgent/blob/main/evals/README.md">Explore the evaluation tooling.</a></sub>
 
-## Open source
+## Stats & side quests
 
-Public pull requests to repositories outside my own account.
+| Stat | Count | Patch notes |
+| :--- | :---: | :--- |
+| Commits (all time) | **1,801** | Another save point. |
+| PRs opened | [![PRs opened](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%253Apr%2Bis%253Apublic%2Bauthor%253Ahector2394%2B-user%253Ahector2394%26per_page%3D1&query=%24.total_count&label=&style=flat-square&color=64748b&cacheSeconds=3600)](https://github.com/search?q=is%3Apr+is%3Apublic+author%3Ahector2394+-user%3Ahector2394&type=pullrequests) | Knock knock, maintainers. |
+| PRs merged | [![PRs merged](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%253Apr%2Bis%253Apublic%2Bauthor%253Ahector2394%2B-user%253Ahector2394%2Bis%253Amerged%26per_page%3D1&query=%24.total_count&label=&style=flat-square&color=7c3aed&cacheSeconds=3600)](https://github.com/search?q=is%3Apr+is%3Apublic+author%3Ahector2394+-user%3Ahector2394+is%3Amerged&type=pullrequests) | Made it upstream. |
+| PRs open | [![PRs open](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%253Apr%2Bis%253Apublic%2Bauthor%253Ahector2394%2B-user%253Ahector2394%2Bis%253Aopen%26per_page%3D1&query=%24.total_count&label=&style=flat-square&color=238636&cacheSeconds=3600)](https://github.com/search?q=is%3Apr+is%3Apublic+author%3Ahector2394+-user%3Ahector2394+is%3Aopen&type=pullrequests) | In the review queue. |
 
-[![PRs opened](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%253Apr%2Bis%253Apublic%2Bauthor%253Ahector2394%2B-user%253Ahector2394%26per_page%3D1&query=%24.total_count&label=PRs+opened&style=flat-square&labelColor=30363d&color=64748b&cacheSeconds=3600)](https://github.com/search?q=is%3Apr+is%3Apublic+author%3Ahector2394+-user%3Ahector2394&type=pullrequests)
-[![Merged](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%253Apr%2Bis%253Apublic%2Bauthor%253Ahector2394%2B-user%253Ahector2394%2Bis%253Amerged%26per_page%3D1&query=%24.total_count&label=Merged&style=flat-square&labelColor=30363d&color=7c3aed&cacheSeconds=3600)](https://github.com/search?q=is%3Apr+is%3Apublic+author%3Ahector2394+-user%3Ahector2394+is%3Amerged&type=pullrequests)
-[![Open](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%253Apr%2Bis%253Apublic%2Bauthor%253Ahector2394%2B-user%253Ahector2394%2Bis%253Aopen%26per_page%3D1&query=%24.total_count&label=Open&style=flat-square&labelColor=30363d&color=238636&cacheSeconds=3600)](https://github.com/search?q=is%3Apr+is%3Apublic+author%3Ahector2394+-user%3Ahector2394+is%3Aopen&type=pullrequests)
+<sub>Commit count: an all-time snapshot including accessible private repositories, based on GitHub's default-branch index. PR counters update automatically and count public contributions outside my own repositories.</sub>
 
 ## Toolkit
 
