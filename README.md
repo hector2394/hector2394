@@ -1,19 +1,12 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img alt="Applied AI engineering. Built end to end. Agents, retrieval and evaluation." src="assets/hero-light.svg" width="100%">
-</picture>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hectorjimenezpalomo/">LinkedIn</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/hector2394/StudyAgent">StudyAgent</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/pulls?q=is%3Apr+author%3Ahector2394+is%3Amerged+-user%3Ahector2394">Merged contributions</a>
-</p>
+# AI Engineer
 
-I build AI applications and the backend systems around them. **AI Engineer Intern
-at Astrafy**, final-year Computer Engineering student, based in Madrid.
+Agents · RAG · Evaluation
+
+I build AI applications and the backend systems around them.
+
+</div>
 
 ## Selected work
 
@@ -31,7 +24,6 @@ at Astrafy**, final-year Computer Engineering student, based in Madrid.
       <p>An independent software project for an ARK gaming community. I develop and maintain its Python automation and TypeScript web application.</p>
       <p>Ticketing, community operations, authentication, order management and payment integrations.</p>
       <p><sub>Python · TypeScript · Next.js · PostgreSQL</sub></p>
-      <a href="https://www.linkedin.com/in/hectorjimenezpalomo/">Project background</a>
     </td>
   </tr>
 </table>
@@ -40,14 +32,11 @@ at Astrafy**, final-year Computer Engineering student, based in Madrid.
 
 ## Open source
 
-Selected fixes and features merged upstream.
+Public pull requests to repositories outside my own account.
 
-| Project | Contribution |
-| :--- | :--- |
-| **SQLFluff** | [Parse concatenation in simple CASE expressions](https://github.com/sqlfluff/sqlfluff/pull/9020) |
-| **SQLFluff** | [Add dbt JSON helpers to the Jinja templater](https://github.com/sqlfluff/sqlfluff/pull/8853) |
-| **eslint-plugin-regexp** | [Name flat configurations in ESLint's config inspector](https://github.com/ota-meshi/eslint-plugin-regexp/pull/1073) |
-| **wii-tv** | [Fix paused frame scheduling and reduce clock reads](https://github.com/MauroProto/wii-tv/pull/3) |
+[![PRs opened](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%253Apr%2Bis%253Apublic%2Bauthor%253Ahector2394%2B-user%253Ahector2394%26per_page%3D1&query=%24.total_count&label=PRs+opened&style=flat-square&labelColor=30363d&color=64748b&cacheSeconds=3600)](https://github.com/search?q=is%3Apr+is%3Apublic+author%3Ahector2394+-user%3Ahector2394&type=pullrequests)
+[![Merged](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%253Apr%2Bis%253Apublic%2Bauthor%253Ahector2394%2B-user%253Ahector2394%2Bis%253Amerged%26per_page%3D1&query=%24.total_count&label=Merged&style=flat-square&labelColor=30363d&color=7c3aed&cacheSeconds=3600)](https://github.com/search?q=is%3Apr+is%3Apublic+author%3Ahector2394+-user%3Ahector2394+is%3Amerged&type=pullrequests)
+[![Open](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%253Apr%2Bis%253Apublic%2Bauthor%253Ahector2394%2B-user%253Ahector2394%2Bis%253Aopen%26per_page%3D1&query=%24.total_count&label=Open&style=flat-square&labelColor=30363d&color=238636&cacheSeconds=3600)](https://github.com/search?q=is%3Apr+is%3Apublic+author%3Ahector2394+-user%3Ahector2394+is%3Aopen&type=pullrequests)
 
 ## Toolkit
 
