@@ -30,16 +30,34 @@ I build AI applications and the backend systems around them.
 
 <sub>StudyAgent includes TypeScript/Python evaluation harnesses. A public evaluation corpus and measured quality baseline are still planned. <a href="https://github.com/hector2394/StudyAgent/blob/main/evals/README.md">Explore the evaluation tooling.</a></sub>
 
-## Stats
+## Activity
 
-| Stat | Count |
-| :--- | ---: |
-| Commits (all time) | 1,802 |
-| Open-source PRs opened | 25 |
-| Open-source PRs merged | 7 |
-| Open-source PRs still open | 18 |
-| Open-source projects with PRs | 10 |
-| Public repositories owned (excluding forks) | 6 |
+Recent public activity, refreshed every six hours.
+
+<!-- activity:start -->
+
+### Opened pull requests
+
+- [Fix FreeBSD source builds with libc 0.2.190](https://github.com/astral-sh/ruff/pull/30176) in astral-sh/ruff
+- [test\(b906\): cover unpacking comprehensions on Python 3.15](https://github.com/PyCQA/flake8-bugbear/pull/627) in PyCQA/flake8-bugbear
+- [fix\(builder\): reject hook results containing directories](https://github.com/pypa/build/pull/1270) in pypa/build
+- [fix\(env\): reject invalid isolated build requirements](https://github.com/pypa/build/pull/1269) in pypa/build
+
+### Merged pull requests
+
+- [fix\(parser\): parse concatenation in simple CASE operands](https://github.com/sqlfluff/sqlfluff/pull/9020) in sqlfluff/sqlfluff
+- [docs\(readme\): use the current repository clone URL](https://github.com/hector2394/ArkLogs/pull/3) in hector2394/ArkLogs
+- [perf: optimize Wii launcher rendering and resource usage](https://github.com/MauroProto/wii-tv/pull/3) in MauroProto/wii-tv
+- [fix\(config\): name flat configurations](https://github.com/ota-meshi/eslint-plugin-regexp/pull/1073) in ota-meshi/eslint-plugin-regexp
+
+### Own projects
+
+- Updated [hector2394/ArkLogs](https://github.com/hector2394/ArkLogs)
+- Updated [hector2394/StudyAgent](https://github.com/hector2394/StudyAgent)
+- Created [hector2394/StudyAgent](https://github.com/hector2394/StudyAgent)
+- Updated [hector2394/ReservaEscritorios](https://github.com/hector2394/ReservaEscritorios)
+
+<!-- activity:end -->
 
 ## Toolkit
 
