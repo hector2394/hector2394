@@ -32,8 +32,6 @@ I build AI applications and the backend systems around them.
 
 ## Activity
 
-Recent public activity, refreshed every six hours.
-
 <!-- activity:start -->
 
 ### Opened pull requests
