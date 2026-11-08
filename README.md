@@ -36,10 +36,10 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
+- [fix\(ST10\): avoid constant-expression warnings for function calls](https://github.com/sqlfluff/sqlfluff/pull/9073) in sqlfluff/sqlfluff
+- [fix: guard modifier-group autofixes in affected rules](https://github.com/ota-meshi/eslint-plugin-regexp/pull/1092) in ota-meshi/eslint-plugin-regexp
 - [Fix FreeBSD source builds with libc 0.2.190](https://github.com/astral-sh/ruff/pull/30176) in astral-sh/ruff
 - [test\(b906\): cover unpacking comprehensions on Python 3.15](https://github.com/PyCQA/flake8-bugbear/pull/627) in PyCQA/flake8-bugbear
-- [fix\(builder\): reject hook results containing directories](https://github.com/pypa/build/pull/1270) in pypa/build
-- [fix\(env\): reject invalid isolated build requirements](https://github.com/pypa/build/pull/1269) in pypa/build
 
 ### Merged pull requests
 
