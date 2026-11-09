@@ -43,10 +43,10 @@ I build AI applications and the backend systems around them.
 
 ### Merged pull requests
 
+- [test\(b906\): cover unpacking comprehensions on Python 3.15](https://github.com/PyCQA/flake8-bugbear/pull/627) in PyCQA/flake8-bugbear
 - [Fix FreeBSD source builds with libc 0.2.190](https://github.com/astral-sh/ruff/pull/30176) in astral-sh/ruff
 - [fix\(parser\): parse concatenation in simple CASE operands](https://github.com/sqlfluff/sqlfluff/pull/9020) in sqlfluff/sqlfluff
 - [docs\(readme\): use the current repository clone URL](https://github.com/hector2394/ArkLogs/pull/3) in hector2394/ArkLogs
-- [perf: optimize Wii launcher rendering and resource usage](https://github.com/MauroProto/wii-tv/pull/3) in MauroProto/wii-tv
 
 ### Own projects
 
