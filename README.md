@@ -36,17 +36,17 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
-- [test\(capabilities\): detect static descriptor directories](https://github.com/tox-dev/filelock/pull/919) in tox-dev/filelock
-- [fix\(ST10\): avoid constant-expression warnings for function calls](https://github.com/sqlfluff/sqlfluff/pull/9073) in sqlfluff/sqlfluff
-- [fix: guard modifier-group autofixes in affected rules](https://github.com/ota-meshi/eslint-plugin-regexp/pull/1092) in ota-meshi/eslint-plugin-regexp
-- [Fix FreeBSD source builds with libc 0.2.190](https://github.com/astral-sh/ruff/pull/30176) in astral-sh/ruff
+- [TYP: Accept scalar operands in DataFrame comparisons](https://github.com/pandas-dev/pandas-stubs/pull/2090) in pandas-dev/pandas-stubs
+- [docs: add B006 and B008 usage examples](https://github.com/PyCQA/flake8-bugbear/pull/629) in PyCQA/flake8-bugbear
+- [Fix sparse ARFF parsing from \#2048.](https://github.com/online-ml/river/pull/2088) in online-ml/river
+- [Fix hpopt reporting when no result was provided](https://github.com/speechbrain/speechbrain/pull/3124) in speechbrain/speechbrain
 
 ### Merged pull requests
 
+- [docs: add B006 and B008 usage examples](https://github.com/PyCQA/flake8-bugbear/pull/629) in PyCQA/flake8-bugbear
 - [test\(b906\): cover unpacking comprehensions on Python 3.15](https://github.com/PyCQA/flake8-bugbear/pull/627) in PyCQA/flake8-bugbear
 - [Fix FreeBSD source builds with libc 0.2.190](https://github.com/astral-sh/ruff/pull/30176) in astral-sh/ruff
 - [fix\(parser\): parse concatenation in simple CASE operands](https://github.com/sqlfluff/sqlfluff/pull/9020) in sqlfluff/sqlfluff
-- [docs\(readme\): use the current repository clone URL](https://github.com/hector2394/ArkLogs/pull/3) in hector2394/ArkLogs
 
 ### Own projects
 
