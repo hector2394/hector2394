@@ -36,10 +36,10 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
-- [TYP: Accept scalar operands in DataFrame comparisons](https://github.com/pandas-dev/pandas-stubs/pull/2090) in pandas-dev/pandas-stubs
-- [docs: add B006 and B008 usage examples](https://github.com/PyCQA/flake8-bugbear/pull/629) in PyCQA/flake8-bugbear
-- [Fix sparse ARFF parsing from \#2048.](https://github.com/online-ml/river/pull/2088) in online-ml/river
-- [Fix hpopt reporting when no result was provided](https://github.com/speechbrain/speechbrain/pull/3124) in speechbrain/speechbrain
+- [fix\(postgres\): preserve omitted REGEXP\_REPLACE replacement \[CODEX\]](https://github.com/tobymao/sqlglot/pull/8969) in tobymao/sqlglot
+- [\[BUG\] Keep the generated estimator overview in the documentation directory](https://github.com/aeon-toolkit/aeon/pull/4002) in aeon-toolkit/aeon
+- [TYP: Accept NAType equality operands](https://github.com/pandas-dev/pandas-stubs/pull/2093) in pandas-dev/pandas-stubs
+- [TYP: cover float ordering and accept numeric Index operands](https://github.com/pandas-dev/pandas-stubs/pull/2092) in pandas-dev/pandas-stubs
 
 ### Merged pull requests
 
