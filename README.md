@@ -36,17 +36,17 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
+- [Fix tree memory accounting for slotted splitter state](https://github.com/online-ml/river/pull/2092) in online-ml/river
+- [Fix compressed files and encodings in stream readers](https://github.com/online-ml/river/pull/2091) in online-ml/river
 - [fix\(postgres\): preserve omitted REGEXP\_REPLACE replacement \[CODEX\]](https://github.com/tobymao/sqlglot/pull/8969) in tobymao/sqlglot
 - [\[BUG\] Keep the generated estimator overview in the documentation directory](https://github.com/aeon-toolkit/aeon/pull/4002) in aeon-toolkit/aeon
-- [TYP: Accept NAType equality operands](https://github.com/pandas-dev/pandas-stubs/pull/2093) in pandas-dev/pandas-stubs
-- [TYP: cover float ordering and accept numeric Index operands](https://github.com/pandas-dev/pandas-stubs/pull/2092) in pandas-dev/pandas-stubs
 
 ### Merged pull requests
 
-- [docs: add B006 and B008 usage examples](https://github.com/PyCQA/flake8-bugbear/pull/629) in PyCQA/flake8-bugbear
-- [test\(b906\): cover unpacking comprehensions on Python 3.15](https://github.com/PyCQA/flake8-bugbear/pull/627) in PyCQA/flake8-bugbear
-- [Fix FreeBSD source builds with libc 0.2.190](https://github.com/astral-sh/ruff/pull/30176) in astral-sh/ruff
-- [fix\(parser\): parse concatenation in simple CASE operands](https://github.com/sqlfluff/sqlfluff/pull/9020) in sqlfluff/sqlfluff
+- [Fix tree memory accounting for slotted splitter state](https://github.com/online-ml/river/pull/2092) in online-ml/river
+- [fix\(postgres\): preserve omitted REGEXP\_REPLACE replacement \[CODEX\]](https://github.com/tobymao/sqlglot/pull/8969) in tobymao/sqlglot
+- [Fix compressed files and encodings in stream readers](https://github.com/online-ml/river/pull/2091) in online-ml/river
+- [Fix sparse ARFF parsing from \#2048.](https://github.com/online-ml/river/pull/2088) in online-ml/river
 
 ### Own projects
 
