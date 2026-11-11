@@ -36,17 +36,17 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
-- [DOC: clarify object inputs in isna and notna](https://github.com/pandas-dev/pandas/pull/72009) in pandas-dev/pandas
-- [Fix tree memory accounting for slotted splitter state](https://github.com/online-ml/river/pull/2092) in online-ml/river
-- [Fix compressed files and encodings in stream readers](https://github.com/online-ml/river/pull/2091) in online-ml/river
-- [fix\(postgres\): preserve omitted REGEXP\_REPLACE replacement \[CODEX\]](https://github.com/tobymao/sqlglot/pull/8969) in tobymao/sqlglot
+- [DOC: clarify sparse dot result index ordering](https://github.com/scipy/scipy/pull/26682) in scipy/scipy
+- [BUG: propagate C-API import failures with SWIG 4.4](https://github.com/numpy/numpy/pull/33291) in numpy/numpy
+- [Rust parser: align BigQuery recovery at mixed terminators](https://github.com/sqlfluff/sqlfluff/pull/9118) in sqlfluff/sqlfluff
+- [BUG: Preserve pandas metadata in MNLogit in-sample predictions](https://github.com/statsmodels/statsmodels/pull/10735) in statsmodels/statsmodels
 
 ### Merged pull requests
 
+- [TYP: Accept NaT in DataFrame and Series fillna](https://github.com/pandas-dev/pandas-stubs/pull/2084) in pandas-dev/pandas-stubs
+- [TYP: Accept NAType equality operands](https://github.com/pandas-dev/pandas-stubs/pull/2093) in pandas-dev/pandas-stubs
 - [Fix tree memory accounting for slotted splitter state](https://github.com/online-ml/river/pull/2092) in online-ml/river
 - [fix\(postgres\): preserve omitted REGEXP\_REPLACE replacement \[CODEX\]](https://github.com/tobymao/sqlglot/pull/8969) in tobymao/sqlglot
-- [Fix compressed files and encodings in stream readers](https://github.com/online-ml/river/pull/2091) in online-ml/river
-- [Fix sparse ARFF parsing from \#2048.](https://github.com/online-ml/river/pull/2088) in online-ml/river
 
 ### Own projects
 
