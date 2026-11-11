@@ -36,10 +36,10 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
+- [DOC: clarify object inputs in isna and notna](https://github.com/pandas-dev/pandas/pull/72009) in pandas-dev/pandas
 - [Fix tree memory accounting for slotted splitter state](https://github.com/online-ml/river/pull/2092) in online-ml/river
 - [Fix compressed files and encodings in stream readers](https://github.com/online-ml/river/pull/2091) in online-ml/river
 - [fix\(postgres\): preserve omitted REGEXP\_REPLACE replacement \[CODEX\]](https://github.com/tobymao/sqlglot/pull/8969) in tobymao/sqlglot
-- [\[BUG\] Keep the generated estimator overview in the documentation directory](https://github.com/aeon-toolkit/aeon/pull/4002) in aeon-toolkit/aeon
 
 ### Merged pull requests
 
