@@ -36,17 +36,17 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
-- [Fix crash when removing parentheses would merge two type-ignore comments](https://github.com/psf/black/pull/5686) in psf/black
-- [BUG: chunk scalar DataArray and Dataset data](https://github.com/pydata/xarray/pull/11872) in pydata/xarray
-- [fix\(stream\): preserve Twitch messages across socket reads](https://github.com/online-ml/river/pull/2094) in online-ml/river
-- [fix\(stream\): close reader-owned files on early exit](https://github.com/online-ml/river/pull/2093) in online-ml/river
+- [TYP: Reject positional raw in row-wise DataFrame.apply overloads](https://github.com/pandas-dev/pandas-stubs/pull/2107) in pandas-dev/pandas-stubs
+- [TYP: Restrict DataFrame ordering operator operands](https://github.com/pandas-dev/pandas-stubs/pull/2106) in pandas-dev/pandas-stubs
+- [TYP: Accept remaining scalar operands in DataFrame comparisons](https://github.com/pandas-dev/pandas-stubs/pull/2104) in pandas-dev/pandas-stubs
+- [\[MNT\] Preserve float32 output in row statistics](https://github.com/aeon-toolkit/aeon/pull/4009) in aeon-toolkit/aeon
 
 ### Merged pull requests
 
+- [TYP: Accept scalar operands in DataFrame comparisons](https://github.com/pandas-dev/pandas-stubs/pull/2090) in pandas-dev/pandas-stubs
 - [Rust parser: align BigQuery recovery at mixed terminators](https://github.com/sqlfluff/sqlfluff/pull/9118) in sqlfluff/sqlfluff
 - [DOC: clarify object inputs in isna and notna](https://github.com/pandas-dev/pandas/pull/72009) in pandas-dev/pandas
 - [TYP: Accept object inputs in isna and notna](https://github.com/pandas-dev/pandas-stubs/pull/2086) in pandas-dev/pandas-stubs
-- [BUG: propagate C-API import failures with SWIG 4.4](https://github.com/numpy/numpy/pull/33291) in numpy/numpy
 
 ### Own projects
 
