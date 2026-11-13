@@ -36,17 +36,17 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
+- [\[RepoCard\] Recognize empty YAML front matter](https://github.com/huggingface/huggingface_hub/pull/5346) in huggingface/huggingface\_hub
+- [BUG: stats.f: add an explicit inverse survival function](https://github.com/scipy/scipy/pull/26696) in scipy/scipy
 - [TYP: Reject positional raw in row-wise DataFrame.apply overloads](https://github.com/pandas-dev/pandas-stubs/pull/2107) in pandas-dev/pandas-stubs
 - [TYP: Restrict DataFrame ordering operator operands](https://github.com/pandas-dev/pandas-stubs/pull/2106) in pandas-dev/pandas-stubs
-- [TYP: Accept remaining scalar operands in DataFrame comparisons](https://github.com/pandas-dev/pandas-stubs/pull/2104) in pandas-dev/pandas-stubs
-- [\[MNT\] Preserve float32 output in row statistics](https://github.com/aeon-toolkit/aeon/pull/4009) in aeon-toolkit/aeon
 
 ### Merged pull requests
 
+- [TYP: Reject positional raw in row-wise DataFrame.apply overloads](https://github.com/pandas-dev/pandas-stubs/pull/2107) in pandas-dev/pandas-stubs
+- [Fix crash when removing parentheses would merge two type-ignore comments](https://github.com/psf/black/pull/5686) in psf/black
 - [TYP: Accept scalar operands in DataFrame comparisons](https://github.com/pandas-dev/pandas-stubs/pull/2090) in pandas-dev/pandas-stubs
 - [Rust parser: align BigQuery recovery at mixed terminators](https://github.com/sqlfluff/sqlfluff/pull/9118) in sqlfluff/sqlfluff
-- [DOC: clarify object inputs in isna and notna](https://github.com/pandas-dev/pandas/pull/72009) in pandas-dev/pandas
-- [TYP: Accept object inputs in isna and notna](https://github.com/pandas-dev/pandas-stubs/pull/2086) in pandas-dev/pandas-stubs
 
 ### Own projects
 
