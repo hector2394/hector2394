@@ -36,17 +36,17 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
+- [fix\(threshold\): handle empty creation sequences](https://github.com/networkx/networkx/pull/9019) in networkx/networkx
+- [fix: support integer bitwise operators on PyArrow](https://github.com/narwhals-dev/narwhals/pull/4152) in narwhals-dev/narwhals
 - [\[RepoCard\] Recognize empty YAML front matter](https://github.com/huggingface/huggingface_hub/pull/5346) in huggingface/huggingface\_hub
 - [BUG: stats.f: add an explicit inverse survival function](https://github.com/scipy/scipy/pull/26696) in scipy/scipy
-- [TYP: Reject positional raw in row-wise DataFrame.apply overloads](https://github.com/pandas-dev/pandas-stubs/pull/2107) in pandas-dev/pandas-stubs
-- [TYP: Restrict DataFrame ordering operator operands](https://github.com/pandas-dev/pandas-stubs/pull/2106) in pandas-dev/pandas-stubs
 
 ### Merged pull requests
 
-- [TYP: Reject positional raw in row-wise DataFrame.apply overloads](https://github.com/pandas-dev/pandas-stubs/pull/2107) in pandas-dev/pandas-stubs
-- [Fix crash when removing parentheses would merge two type-ignore comments](https://github.com/psf/black/pull/5686) in psf/black
-- [TYP: Accept scalar operands in DataFrame comparisons](https://github.com/pandas-dev/pandas-stubs/pull/2090) in pandas-dev/pandas-stubs
-- [Rust parser: align BigQuery recovery at mixed terminators](https://github.com/sqlfluff/sqlfluff/pull/9118) in sqlfluff/sqlfluff
+- [fix\(nav\): exclude archived-project tasks from tag counts](https://github.com/super-productivity/super-productivity/pull/11542) in super-productivity/super-productivity
+- [fix\(stream\): parse quoted values in dense ARFF rows](https://github.com/online-ml/river/pull/2096) in online-ml/river
+- [fix\(plugins\): reopen closed cache connections](https://github.com/super-productivity/super-productivity/pull/11536) in super-productivity/super-productivity
+- [fix\(markdown\): keep checklist spacing clear in RTL](https://github.com/super-productivity/super-productivity/pull/11540) in super-productivity/super-productivity
 
 ### Own projects
 
