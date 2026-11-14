@@ -36,17 +36,17 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
-- [fix\(threshold\): handle empty creation sequences](https://github.com/networkx/networkx/pull/9019) in networkx/networkx
-- [fix: support integer bitwise operators on PyArrow](https://github.com/narwhals-dev/narwhals/pull/4152) in narwhals-dev/narwhals
-- [\[RepoCard\] Recognize empty YAML front matter](https://github.com/huggingface/huggingface_hub/pull/5346) in huggingface/huggingface\_hub
-- [BUG: stats.f: add an explicit inverse survival function](https://github.com/scipy/scipy/pull/26696) in scipy/scipy
+- [fix\(boards\): allow drops into empty list sections](https://github.com/super-productivity/super-productivity/pull/11780) in super-productivity/super-productivity
+- [feat\(tasks\): duplicate selected tasks in place](https://github.com/super-productivity/super-productivity/pull/11779) in super-productivity/super-productivity
+- [fix\(schedule\): keep expanded trays from covering the grid](https://github.com/super-productivity/super-productivity/pull/11778) in super-productivity/super-productivity
+- [feat\(search\): ignore Latin accents when matching queries](https://github.com/super-productivity/super-productivity/pull/11777) in super-productivity/super-productivity
 
 ### Merged pull requests
 
+- [fix\(plugins\): resolve the system language for translations and hooks](https://github.com/super-productivity/super-productivity/pull/11537) in super-productivity/super-productivity
 - [fix\(nav\): exclude archived-project tasks from tag counts](https://github.com/super-productivity/super-productivity/pull/11542) in super-productivity/super-productivity
 - [fix\(stream\): parse quoted values in dense ARFF rows](https://github.com/online-ml/river/pull/2096) in online-ml/river
 - [fix\(plugins\): reopen closed cache connections](https://github.com/super-productivity/super-productivity/pull/11536) in super-productivity/super-productivity
-- [fix\(markdown\): keep checklist spacing clear in RTL](https://github.com/super-productivity/super-productivity/pull/11540) in super-productivity/super-productivity
 
 ### Own projects
 
