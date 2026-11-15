@@ -36,17 +36,17 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
+- [docs: add B023 and B032 usage examples](https://github.com/PyCQA/flake8-bugbear/pull/636) in PyCQA/flake8-bugbear
 - [fix\(clickhouse\): raise ParseError for empty XOR calls \[CODEX\]](https://github.com/tobymao/sqlglot/pull/9106) in tobymao/sqlglot
 - [feat\(tasks\): duplicate single tasks in place](https://github.com/super-productivity/super-productivity/pull/11798) in super-productivity/super-productivity
 - [TYP: Align apply args annotations with supported sequences](https://github.com/pandas-dev/pandas-stubs/pull/2112) in pandas-dev/pandas-stubs
-- [BUG: clarify fromfile error for zero-itemsize dtypes](https://github.com/numpy/numpy/pull/33337) in numpy/numpy
 
 ### Merged pull requests
 
+- [TYP: Accept remaining scalar operands in DataFrame comparisons](https://github.com/pandas-dev/pandas-stubs/pull/2104) in pandas-dev/pandas-stubs
 - [\[BUG\] Keep the generated estimator overview in the documentation directory](https://github.com/aeon-toolkit/aeon/pull/4002) in aeon-toolkit/aeon
 - [fix\(plugins\): report the resolved system theme](https://github.com/super-productivity/super-productivity/pull/11538) in super-productivity/super-productivity
 - [fix\(local-rest-api\): reject standalone subtask restores](https://github.com/super-productivity/super-productivity/pull/11541) in super-productivity/super-productivity
-- [fix\(cli\): normalize GitLab report paths relative to the working directory](https://github.com/sqlfluff/sqlfluff/pull/9080) in sqlfluff/sqlfluff
 
 ### Own projects
 
