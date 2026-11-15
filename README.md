@@ -36,10 +36,10 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
+- [fix\(clickhouse\): raise ParseError for empty XOR calls \[CODEX\]](https://github.com/tobymao/sqlglot/pull/9106) in tobymao/sqlglot
+- [feat\(tasks\): duplicate single tasks in place](https://github.com/super-productivity/super-productivity/pull/11798) in super-productivity/super-productivity
 - [TYP: Align apply args annotations with supported sequences](https://github.com/pandas-dev/pandas-stubs/pull/2112) in pandas-dev/pandas-stubs
 - [BUG: clarify fromfile error for zero-itemsize dtypes](https://github.com/numpy/numpy/pull/33337) in numpy/numpy
-- [fix\(sync\): keep provider selection after restart](https://github.com/super-productivity/super-productivity/pull/11789) in super-productivity/super-productivity
-- [fix\(boards\): allow drops into empty list sections](https://github.com/super-productivity/super-productivity/pull/11780) in super-productivity/super-productivity
 
 ### Merged pull requests
 
