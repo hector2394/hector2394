@@ -36,17 +36,17 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
+- [🧪 test: fix descriptor discovery and Windows coverage](https://github.com/tox-dev/filelock/pull/935) in tox-dev/filelock
+- [\[REF\] Reuse DAMP search kernels in MADRID](https://github.com/aeon-toolkit/aeon/pull/4030) in aeon-toolkit/aeon
 - [docs: add B023 and B032 usage examples](https://github.com/PyCQA/flake8-bugbear/pull/636) in PyCQA/flake8-bugbear
 - [fix\(clickhouse\): raise ParseError for empty XOR calls \[CODEX\]](https://github.com/tobymao/sqlglot/pull/9106) in tobymao/sqlglot
-- [feat\(tasks\): duplicate single tasks in place](https://github.com/super-productivity/super-productivity/pull/11798) in super-productivity/super-productivity
-- [TYP: Align apply args annotations with supported sequences](https://github.com/pandas-dev/pandas-stubs/pull/2112) in pandas-dev/pandas-stubs
 
 ### Merged pull requests
 
+- [docs: add B023 and B032 usage examples](https://github.com/PyCQA/flake8-bugbear/pull/636) in PyCQA/flake8-bugbear
 - [TYP: Accept remaining scalar operands in DataFrame comparisons](https://github.com/pandas-dev/pandas-stubs/pull/2104) in pandas-dev/pandas-stubs
 - [\[BUG\] Keep the generated estimator overview in the documentation directory](https://github.com/aeon-toolkit/aeon/pull/4002) in aeon-toolkit/aeon
 - [fix\(plugins\): report the resolved system theme](https://github.com/super-productivity/super-productivity/pull/11538) in super-productivity/super-productivity
-- [fix\(local-rest-api\): reject standalone subtask restores](https://github.com/super-productivity/super-productivity/pull/11541) in super-productivity/super-productivity
 
 ### Own projects
 
