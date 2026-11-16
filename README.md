@@ -36,17 +36,17 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
-- [🧪 test: fix descriptor discovery and Windows coverage](https://github.com/tox-dev/filelock/pull/935) in tox-dev/filelock
-- [\[REF\] Reuse DAMP search kernels in MADRID](https://github.com/aeon-toolkit/aeon/pull/4030) in aeon-toolkit/aeon
-- [docs: add B023 and B032 usage examples](https://github.com/PyCQA/flake8-bugbear/pull/636) in PyCQA/flake8-bugbear
-- [fix\(clickhouse\): raise ParseError for empty XOR calls \[CODEX\]](https://github.com/tobymao/sqlglot/pull/9106) in tobymao/sqlglot
+- [fix\(linear\): keep issue identifier in refreshed titles](https://github.com/super-productivity/super-productivity/pull/11820) in super-productivity/super-productivity
+- [Add a separate retention limit for full Trainer checkpoints](https://github.com/huggingface/transformers/pull/50833) in huggingface/transformers
+- [BUG: stats.poisson\_means\_test: handle alternative case consistently](https://github.com/scipy/scipy/pull/26731) in scipy/scipy
+- [\[\`pyflakes\`\] Report unused imports shadowed by type parameters \(\`F401\`\)](https://github.com/astral-sh/ruff/pull/30453) in astral-sh/ruff
 
 ### Merged pull requests
 
+- [BUG: Preserve pandas metadata in MNLogit in-sample predictions](https://github.com/statsmodels/statsmodels/pull/10735) in statsmodels/statsmodels
+- [fix\(tsql\): coerce boolean casts in predicate positions \[CODEX\]](https://github.com/tobymao/sqlglot/pull/9127) in tobymao/sqlglot
+- [fix\(clickhouse\): raise ParseError for empty XOR calls \[CODEX\]](https://github.com/tobymao/sqlglot/pull/9106) in tobymao/sqlglot
 - [docs: add B023 and B032 usage examples](https://github.com/PyCQA/flake8-bugbear/pull/636) in PyCQA/flake8-bugbear
-- [TYP: Accept remaining scalar operands in DataFrame comparisons](https://github.com/pandas-dev/pandas-stubs/pull/2104) in pandas-dev/pandas-stubs
-- [\[BUG\] Keep the generated estimator overview in the documentation directory](https://github.com/aeon-toolkit/aeon/pull/4002) in aeon-toolkit/aeon
-- [fix\(plugins\): report the resolved system theme](https://github.com/super-productivity/super-productivity/pull/11538) in super-productivity/super-productivity
 
 ### Own projects
 
