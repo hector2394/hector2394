@@ -36,17 +36,17 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
+- [fix\(sync\): preserve task links when deleting an old provider](https://github.com/super-productivity/super-productivity/pull/11840) in super-productivity/super-productivity
+- [fix\(fft\): honor orthogonalize for complex transforms](https://github.com/scipy/scipy/pull/26742) in scipy/scipy
 - [fix\(optimizer\): preserve scalar subqueries in predicates \[CODEX\]](https://github.com/tobymao/sqlglot/pull/9171) in tobymao/sqlglot
 - [fix\(linear\): keep issue identifier in refreshed titles](https://github.com/super-productivity/super-productivity/pull/11820) in super-productivity/super-productivity
-- [Add a separate retention limit for full Trainer checkpoints](https://github.com/huggingface/transformers/pull/50833) in huggingface/transformers
-- [BUG: stats.poisson\_means\_test: handle alternative case consistently](https://github.com/scipy/scipy/pull/26731) in scipy/scipy
 
 ### Merged pull requests
 
+- [fix\(sync\): keep provider selection after restart](https://github.com/super-productivity/super-productivity/pull/11789) in super-productivity/super-productivity
+- [fix\(optimizer\): preserve scalar subqueries in predicates \[CODEX\]](https://github.com/tobymao/sqlglot/pull/9171) in tobymao/sqlglot
+- [TYP: Restrict DataFrame ordering operator operands](https://github.com/pandas-dev/pandas-stubs/pull/2106) in pandas-dev/pandas-stubs
 - [DOC: clarify sparse dot result index ordering](https://github.com/scipy/scipy/pull/26682) in scipy/scipy
-- [🧪 test: skip symlink checks where symlinks are denied](https://github.com/tox-dev/filelock/pull/935) in tox-dev/filelock
-- [BUG: Preserve pandas metadata in MNLogit in-sample predictions](https://github.com/statsmodels/statsmodels/pull/10735) in statsmodels/statsmodels
-- [fix\(tsql\): coerce boolean casts in predicate positions \[CODEX\]](https://github.com/tobymao/sqlglot/pull/9127) in tobymao/sqlglot
 
 ### Own projects
 
