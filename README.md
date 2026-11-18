@@ -36,17 +36,17 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
+- [TST: Cover Series float ordering operands](https://github.com/pandas-dev/pandas-stubs/pull/2124) in pandas-dev/pandas-stubs
+- [fix\(signal\): limit Lomb-Scargle temporary memory](https://github.com/scipy/scipy/pull/26754) in scipy/scipy
 - [fix\(sync\): preserve task links when deleting an old provider](https://github.com/super-productivity/super-productivity/pull/11840) in super-productivity/super-productivity
-- [fix\(fft\): honor orthogonalize for complex transforms](https://github.com/scipy/scipy/pull/26742) in scipy/scipy
-- [fix\(optimizer\): preserve scalar subqueries in predicates \[CODEX\]](https://github.com/tobymao/sqlglot/pull/9171) in tobymao/sqlglot
-- [fix\(linear\): keep issue identifier in refreshed titles](https://github.com/super-productivity/super-productivity/pull/11820) in super-productivity/super-productivity
+- [BUG: fft: honor orthogonalize for complex transforms](https://github.com/scipy/scipy/pull/26742) in scipy/scipy
 
 ### Merged pull requests
 
+- [fix\(builder\): reject hook results containing directories](https://github.com/pypa/build/pull/1270) in pypa/build
+- [BUG: fft: honor orthogonalize for complex transforms](https://github.com/scipy/scipy/pull/26742) in scipy/scipy
 - [fix\(sync\): keep provider selection after restart](https://github.com/super-productivity/super-productivity/pull/11789) in super-productivity/super-productivity
 - [fix\(optimizer\): preserve scalar subqueries in predicates \[CODEX\]](https://github.com/tobymao/sqlglot/pull/9171) in tobymao/sqlglot
-- [TYP: Restrict DataFrame ordering operator operands](https://github.com/pandas-dev/pandas-stubs/pull/2106) in pandas-dev/pandas-stubs
-- [DOC: clarify sparse dot result index ordering](https://github.com/scipy/scipy/pull/26682) in scipy/scipy
 
 ### Own projects
 
