@@ -36,17 +36,17 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
+- [fix\(parser\): retain the 500 most recent tribe-log entries](https://github.com/hector2394/ArkLogs/pull/4) in hector2394/ArkLogs
 - [TST: Cover Series float ordering operands](https://github.com/pandas-dev/pandas-stubs/pull/2124) in pandas-dev/pandas-stubs
 - [fix\(signal\): limit Lomb-Scargle temporary memory](https://github.com/scipy/scipy/pull/26754) in scipy/scipy
 - [fix\(sync\): preserve task links when deleting an old provider](https://github.com/super-productivity/super-productivity/pull/11840) in super-productivity/super-productivity
-- [BUG: fft: honor orthogonalize for complex transforms](https://github.com/scipy/scipy/pull/26742) in scipy/scipy
 
 ### Merged pull requests
 
+- [fix\(parser\): retain the 500 most recent tribe-log entries](https://github.com/hector2394/ArkLogs/pull/4) in hector2394/ArkLogs
 - [fix\(builder\): reject hook results containing directories](https://github.com/pypa/build/pull/1270) in pypa/build
 - [BUG: fft: honor orthogonalize for complex transforms](https://github.com/scipy/scipy/pull/26742) in scipy/scipy
 - [fix\(sync\): keep provider selection after restart](https://github.com/super-productivity/super-productivity/pull/11789) in super-productivity/super-productivity
-- [fix\(optimizer\): preserve scalar subqueries in predicates \[CODEX\]](https://github.com/tobymao/sqlglot/pull/9171) in tobymao/sqlglot
 
 ### Own projects
 
