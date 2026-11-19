@@ -36,17 +36,17 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
+- [fix\(stats\): honor tolerance in order-statistic L-moments](https://github.com/scipy/scipy/pull/26771) in scipy/scipy
+- [fix\(schedule\): preserve booked end times while tracking \#11862](https://github.com/super-productivity/super-productivity/pull/11865) in super-productivity/super-productivity
+- [fix\(optimizer\): preserve conditional result types \[CODEX\]](https://github.com/tobymao/sqlglot/pull/9218) in tobymao/sqlglot
 - [fix\(parser\): retain the 500 most recent tribe-log entries](https://github.com/hector2394/ArkLogs/pull/4) in hector2394/ArkLogs
-- [TST: Cover Series float ordering operands](https://github.com/pandas-dev/pandas-stubs/pull/2124) in pandas-dev/pandas-stubs
-- [fix\(signal\): limit Lomb-Scargle temporary memory](https://github.com/scipy/scipy/pull/26754) in scipy/scipy
-- [fix\(sync\): preserve task links when deleting an old provider](https://github.com/super-productivity/super-productivity/pull/11840) in super-productivity/super-productivity
 
 ### Merged pull requests
 
-- [fix\(parser\): retain the 500 most recent tribe-log entries](https://github.com/hector2394/ArkLogs/pull/4) in hector2394/ArkLogs
-- [fix\(builder\): reject hook results containing directories](https://github.com/pypa/build/pull/1270) in pypa/build
-- [BUG: fft: honor orthogonalize for complex transforms](https://github.com/scipy/scipy/pull/26742) in scipy/scipy
-- [fix\(sync\): keep provider selection after restart](https://github.com/super-productivity/super-productivity/pull/11789) in super-productivity/super-productivity
+- [fix\(env\): reject invalid isolated build requirements](https://github.com/pypa/build/pull/1269) in pypa/build
+- [fix\(sync\): preserve task links when deleting an old provider](https://github.com/super-productivity/super-productivity/pull/11840) in super-productivity/super-productivity
+- [fix\(boards\): allow drops into empty list sections](https://github.com/super-productivity/super-productivity/pull/11780) in super-productivity/super-productivity
+- [feat\(search\): find tasks by attached link URLs](https://github.com/super-productivity/super-productivity/pull/11776) in super-productivity/super-productivity
 
 ### Own projects
 
