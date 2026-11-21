@@ -36,17 +36,17 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
+- [fix\(sync\): skip warnings for identical recurring task edits](https://github.com/super-productivity/super-productivity/pull/11900) in super-productivity/super-productivity
 - [Preserve subnormal inverse-beta roots in Fisher F quantiles](https://github.com/boostorg/math/pull/1667) in boostorg/math
 - [fix\(electron\): save tracked time after a cancelled quit](https://github.com/super-productivity/super-productivity/pull/11882) in super-productivity/super-productivity
 - [fix\(stats\): honor tolerance in order-statistic L-moments](https://github.com/scipy/scipy/pull/26771) in scipy/scipy
-- [fix\(schedule\): preserve booked end times while tracking \#11862](https://github.com/super-productivity/super-productivity/pull/11865) in super-productivity/super-productivity
 
 ### Merged pull requests
 
+- [\[MNT\] Preserve float32 output in row statistics](https://github.com/aeon-toolkit/aeon/pull/4009) in aeon-toolkit/aeon
 - [test\(pwa\): stabilize controlled reload setup](https://github.com/super-productivity/super-productivity/pull/11565) in super-productivity/super-productivity
 - [fix\(env\): reject invalid isolated build requirements](https://github.com/pypa/build/pull/1269) in pypa/build
 - [fix\(sync\): preserve task links when deleting an old provider](https://github.com/super-productivity/super-productivity/pull/11840) in super-productivity/super-productivity
-- [fix\(boards\): allow drops into empty list sections](https://github.com/super-productivity/super-productivity/pull/11780) in super-productivity/super-productivity
 
 ### Own projects
 
