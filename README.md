@@ -36,10 +36,10 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
+- [BUG: Avoid exponential discovery of recursive sequences](https://github.com/numpy/numpy/pull/33407) in numpy/numpy
 - [BUG: Handle empty object arrays in nanvar and nanstd](https://github.com/numpy/numpy/pull/33404) in numpy/numpy
 - [fix\(android\): skip deadline alarms for the tracked task](https://github.com/super-productivity/super-productivity/pull/11920) in super-productivity/super-productivity
 - [docs\(wiki\): document missing Wayland attention cues](https://github.com/super-productivity/super-productivity/pull/11919) in super-productivity/super-productivity
-- [fix\(sync\): skip warnings for identical recurring task edits](https://github.com/super-productivity/super-productivity/pull/11900) in super-productivity/super-productivity
 
 ### Merged pull requests
 
