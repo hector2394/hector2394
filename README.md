@@ -36,17 +36,17 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
-- [BUG: Avoid exponential discovery of recursive sequences](https://github.com/numpy/numpy/pull/33407) in numpy/numpy
-- [BUG: Handle empty object arrays in nanvar and nanstd](https://github.com/numpy/numpy/pull/33404) in numpy/numpy
-- [fix\(android\): skip deadline alarms for the tracked task](https://github.com/super-productivity/super-productivity/pull/11920) in super-productivity/super-productivity
-- [docs\(wiki\): document missing Wayland attention cues](https://github.com/super-productivity/super-productivity/pull/11919) in super-productivity/super-productivity
+- [fix\(interpolate\): handle decreasing breakpoints in periodic BPoly int…](https://github.com/scipy/scipy/pull/26791) in scipy/scipy
+- [TST: Isolate StringDType leak regression from xdist threads](https://github.com/numpy/numpy/pull/33412) in numpy/numpy
+- [Avoid reentrant cleanup of attribute inference iterators](https://github.com/pylint-dev/astroid/pull/3483) in pylint-dev/astroid
+- [fix\(quickstart\): skip existing Makefile prerequisites](https://github.com/sphinx-doc/sphinx/pull/14868) in sphinx-doc/sphinx
 
 ### Merged pull requests
 
-- [BUG: Handle empty object arrays in nanvar and nanstd](https://github.com/numpy/numpy/pull/33404) in numpy/numpy
-- [\[MNT\] Preserve float32 output in row statistics](https://github.com/aeon-toolkit/aeon/pull/4009) in aeon-toolkit/aeon
-- [test\(pwa\): stabilize controlled reload setup](https://github.com/super-productivity/super-productivity/pull/11565) in super-productivity/super-productivity
-- [fix\(env\): reject invalid isolated build requirements](https://github.com/pypa/build/pull/1269) in pypa/build
+- [TYP: Align apply args annotations with supported sequences](https://github.com/pandas-dev/pandas-stubs/pull/2112) in pandas-dev/pandas-stubs
+- [TYP: Accept real ordering operands for Index\[float\]](https://github.com/pandas-dev/pandas-stubs/pull/2092) in pandas-dev/pandas-stubs
+- [fix\(linter\): retain rule failures in templated areas](https://github.com/sqlfluff/sqlfluff/pull/9084) in sqlfluff/sqlfluff
+- [BUG: clarify fromfile error for zero-itemsize dtypes](https://github.com/numpy/numpy/pull/33337) in numpy/numpy
 
 ### Own projects
 
