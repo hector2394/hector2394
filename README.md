@@ -43,10 +43,10 @@ I build AI applications and the backend systems around them.
 
 ### Merged pull requests
 
+- [fix\(docs\): use dark colors for the rule legend](https://github.com/astral-sh/ruff/pull/30754) in astral-sh/ruff
 - [fix\(ST04\): preserve case-sensitive CASE operands](https://github.com/sqlfluff/sqlfluff/pull/9019) in sqlfluff/sqlfluff
 - [TYP: Align apply args annotations with supported sequences](https://github.com/pandas-dev/pandas-stubs/pull/2112) in pandas-dev/pandas-stubs
 - [TYP: Accept real ordering operands for Index\[float\]](https://github.com/pandas-dev/pandas-stubs/pull/2092) in pandas-dev/pandas-stubs
-- [fix\(linter\): retain rule failures in templated areas](https://github.com/sqlfluff/sqlfluff/pull/9084) in sqlfluff/sqlfluff
 
 ### Own projects
 
