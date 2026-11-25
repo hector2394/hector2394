@@ -43,10 +43,10 @@ I build AI applications and the backend systems around them.
 
 ### Merged pull requests
 
+- [DOC: clarify leading zeros in polydiv divisors](https://github.com/numpy/numpy/pull/33436) in numpy/numpy
 - [TYP: Fix Pyright inference for datetime rounding](https://github.com/pandas-dev/pandas-stubs/pull/2134) in pandas-dev/pandas-stubs
 - [TST: Cover Series float ordering operands](https://github.com/pandas-dev/pandas-stubs/pull/2124) in pandas-dev/pandas-stubs
 - [fix\(docs\): use dark colors for the rule legend](https://github.com/astral-sh/ruff/pull/30754) in astral-sh/ruff
-- [fix\(ST04\): preserve case-sensitive CASE operands](https://github.com/sqlfluff/sqlfluff/pull/9019) in sqlfluff/sqlfluff
 
 ### Own projects
 
