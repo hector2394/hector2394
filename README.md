@@ -43,10 +43,10 @@ I build AI applications and the backend systems around them.
 
 ### Merged pull requests
 
-- [BUG: interpolate.BPoly: fix periodic integration with decreasing breakpoints](https://github.com/scipy/scipy/pull/26791) in scipy/scipy
-- [DOC: clarify leading zeros in polydiv divisors](https://github.com/numpy/numpy/pull/33436) in numpy/numpy
-- [TYP: Fix Pyright inference for datetime rounding](https://github.com/pandas-dev/pandas-stubs/pull/2134) in pandas-dev/pandas-stubs
-- [TST: Cover Series float ordering operands](https://github.com/pandas-dev/pandas-stubs/pull/2124) in pandas-dev/pandas-stubs
+- [fix\(sync\): skip warnings for identical recurring task edits](https://github.com/super-productivity/super-productivity/pull/11900) in super-productivity/super-productivity
+- [docs\(wiki\): document missing Wayland attention cues](https://github.com/super-productivity/super-productivity/pull/11919) in super-productivity/super-productivity
+- [fix\(schedule\): keep expanded trays from covering the grid](https://github.com/super-productivity/super-productivity/pull/11778) in super-productivity/super-productivity
+- [fix\(ST10\): limit exemptions to SQLite random functions](https://github.com/sqlfluff/sqlfluff/pull/9073) in sqlfluff/sqlfluff
 
 ### Own projects
 
