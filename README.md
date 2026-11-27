@@ -36,10 +36,10 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
+- [BUG: Avoid casting stale output values in np.take](https://github.com/numpy/numpy/pull/33485) in numpy/numpy
+- [BUG: stats.quantile: use expanded ranks for weighted quantile ties](https://github.com/scipy/scipy/pull/26847) in scipy/scipy
 - [DOC: clarify leading zeros in polydiv divisors](https://github.com/numpy/numpy/pull/33436) in numpy/numpy
 - [TYP: Fix Pyright inference for datetime rounding](https://github.com/pandas-dev/pandas-stubs/pull/2134) in pandas-dev/pandas-stubs
-- [BUG: interpolate.BPoly: fix periodic integration with decreasing breakpoints](https://github.com/scipy/scipy/pull/26791) in scipy/scipy
-- [TST: Isolate StringDType leak regression from xdist threads](https://github.com/numpy/numpy/pull/33412) in numpy/numpy
 
 ### Merged pull requests
 
