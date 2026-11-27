@@ -36,17 +36,17 @@ I build AI applications and the backend systems around them.
 
 ### Opened pull requests
 
+- [BUG: sparse: preserve fractions in LIL and DOK scalar division](https://github.com/scipy/scipy/pull/26859) in scipy/scipy
 - [BUG: Avoid casting stale output values in np.take](https://github.com/numpy/numpy/pull/33485) in numpy/numpy
 - [BUG: stats.quantile: use expanded ranks for weighted quantile ties](https://github.com/scipy/scipy/pull/26847) in scipy/scipy
 - [DOC: clarify leading zeros in polydiv divisors](https://github.com/numpy/numpy/pull/33436) in numpy/numpy
-- [TYP: Fix Pyright inference for datetime rounding](https://github.com/pandas-dev/pandas-stubs/pull/2134) in pandas-dev/pandas-stubs
 
 ### Merged pull requests
 
+- [fix\(workers\): preserve usage-error diagnostics and exit status](https://github.com/pytest-dev/pytest-xdist/pull/1408) in pytest-dev/pytest-xdist
+- [dotnet: add .NET 10 package and reference pages](https://github.com/tldr-pages/tldr/pull/24828) in tldr-pages/tldr
 - [fix\(sync\): skip warnings for identical recurring task edits](https://github.com/super-productivity/super-productivity/pull/11900) in super-productivity/super-productivity
 - [docs\(wiki\): document missing Wayland attention cues](https://github.com/super-productivity/super-productivity/pull/11919) in super-productivity/super-productivity
-- [fix\(schedule\): keep expanded trays from covering the grid](https://github.com/super-productivity/super-productivity/pull/11778) in super-productivity/super-productivity
-- [fix\(ST10\): limit exemptions to SQLite random functions](https://github.com/sqlfluff/sqlfluff/pull/9073) in sqlfluff/sqlfluff
 
 ### Own projects
 
